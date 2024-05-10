@@ -1,38 +1,8 @@
 export let menu = [
   {
     id: 1,
-    title: "Download",
-    path: "/download/",
-  },
-   {
-    id: 2,
-    title: "Play on PC",
-    path: "/how-to-play-on-pc/",
-  },
-  {
-    id: 3,
-    title: "About Us",
-    path: "/about-us/",
-  },
-  {
-    id: 4,
-    title: "Contact Us",
-    path: "/contact-us/",
-  },
-  {
-    id: 5,
-    title: "Privacy Policy",
-    path: "/privacy-policy/",
-  },
-  {
-    id: 6,
-    title: "Disclaimer",
-    path: "/disclaimer/",
-  },
-  {
-    id: 7,
-    title: "Switch ROMS",
-    path: "https://switchrom.net/",
+    title: "Free Spins",
+    path: "/",
   },
 ];
 export let fandq = [
