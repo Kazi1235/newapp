@@ -7,17 +7,22 @@ export let menu = [
 ];
 export let fandq = [
   {
-    title: "Can I Play Car Parking MOD APK on PC?",
-    text: "Yes, you can play this multiplayer MOD game on your large-screen PC easily. But you need to use an Android emulator to run. We recommend you use Bluestacks or LDPlayer. But you can use any of your favorite emulators as well.",
+    title: "Do reward links expire or not?",
+    text: "Yes, Coin Master free spins and coins reward links will expire in the next three days. Then you can't claim the reward mentioned. So, collect the spins and coins immediately.",
   },
   {
-    title: "Do I Get All Cars Unlocked on this Game?",
-    text: "The answer is Yes. All gamers can use all cars in the game. This is because it offers all cars unlocked. So, you can select any of your dream cars and play.",
+    title: "How to get Coin Master Spins daily?",
+    text: "You can easily get or collect those free spins and coins daily. For this, visit this page or open the official Facebook page. Then tap on the link and the prizes will credited to the game inventory.",
   },
   ,
   {
-    title: "Can I Play the Game Offline?",
-    text: "The game can be played offline with ease. You can race and even participate in different challenges. However, the multiplayer mode does not work on the offline mode. It requires the Internet.",
+    title: "What are the benefits of free spins and coins?",
+    text: "Spins and Coins are very crucial elements here and it help users to use Slot machines as well as build the village. If you don't have the spins then you need to spend real money to purchase them to continue. So, a better way is the free spin and coin rewards.",
+  },
+  ,
+  {
+    title: "How to earn maximum coins?",
+    text: "To get maximum coins, you need to have the best plan and strategy. For this, attack and raid opponent villages. Also, utilize Foxy and Tiger pets for more advantage during attacking and collect maximum coins.",
   },
 ];
 export let carousel = [
