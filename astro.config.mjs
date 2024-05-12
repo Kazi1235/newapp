@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   compressHTML: true,
-  site: "https://carparkingmultiplayer.pro",
+  site: "https://coinmastersspin.web.app",
   integrations: [tailwind()],
 });
